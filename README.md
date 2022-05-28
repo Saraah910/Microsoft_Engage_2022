@@ -32,7 +32,7 @@ The app checks if you are using earphones for longer than 60 minutes and reminds
 
 When a user visits the app for the first time, initial information and instructions are displayed to the user to make them familiar with the app. This app doesn’t require a login or signup.
 
-![Onboarding](https://cdn.hashnode.com/res/hashnode/image/upload/v1646063229646/SR6dYn1l_.gif)
+
 
 
 ### Posture detection initial setup🧍‍♂️
