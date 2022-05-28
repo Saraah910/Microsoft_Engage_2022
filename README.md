@@ -45,7 +45,7 @@ The app first needs to understand what a good posture is and what a bad posture 
 ### Dashboard 🏠
 
 The dashboard displays the countdown timer. You can start and stop it whenever you want. You can opt to select only a few options to receive notifications for between back care, eye care, and ear care. Additionally, the app has a sweet cartoon creator whose mood will depend on how effectively you use this app.
-![Dashboard](https://cdn.hashnode.com/res/hashnode/image/upload/v1646062814254/SPLzpsgMY.gif)
+
 
 
 ### Reminders 🔔
