@@ -1,5 +1,5 @@
 # Dev Care: One stop solution to take care of your health as developers 👩‍💻
-## The website has been deployed.
+### The website has been deployed.
 ## Click here to go to website: https://devloperhealthcareapp.netlify.app
 
 One-stop solution to take care of your health as developers. Dev Care will help you to take care of your back, eyes, and ears while working. The solutions we are working with are as follows:
@@ -43,7 +43,7 @@ When a user visits the app for the first time, initial information and instructi
 ### Posture detection initial setup🧍‍♂️
 
 The app first needs to understand what a good posture is and what a bad posture is. For that, you’ll need to click at least 10 pictures for both cases. The app will learn from those images what a correct and incorrect posture is. After which, at regular intervals, the app will be able to check your posture and further inform you if it is not correct.
-Click here to go to the website: https://devloperhealthcareapp.netlify.app
+
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1646064071016/N0IcAA4qn.png)
 
