@@ -1,6 +1,5 @@
 # Dev Care: One stop solution to take care of your health as developers 👩‍💻
-### The website has been deployed.
-## Click here to go to website: https://devloperhealthcareapp.netlify.app
+
 
 One-stop solution to take care of your health as developers. Dev Care will help you to take care of your back, eyes, and ears while working. The solutions we are working with are as follows:
 
